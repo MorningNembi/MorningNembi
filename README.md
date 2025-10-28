@@ -1,10 +1,32 @@
-## startupcode / 스타트업코드
-안녕하세요! 🙋‍♂️ 카카오테크 인공지능 2기 milo.lee(이정택) 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
-항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다. 🥰 모두 잘되었으면 좋겠어요!
+### 저는 사람을 먼저 생각하는 AI 개발자 이정택입니다.
+
+안녕하세요! 🙋‍♂️ 카카오테크 인공지능 2기 milo.lee(이정택) 입니다.   
+AI 기술이 아무리 정교해도, 결국 사용자 의도를 제대로 파악하고 그에 맞게 반응하지 못한다면 좋은 기술이라고 할 수 없다고 생각합니다.  
+사용자의 입장에서 문제를 바라보고, 직관적이고 유용한 AI 서비스를 만들고 싶습니다!
 <br />
 <br />
+## 주요 활동
+
+### **NAVER Cloud 인턴**
+기간: 2025.09 ~  
+직무: HyperClova X를 활용한 AI 경험 리서치 및 기획
+- MCP에서의 OAuth 관련 리서치 및 네이버 로그인이 적용된 Naver Remote MCP 제작
+- AI관련 산업 리서치 및 기능 기획
+- Clova Studio, Naver Cloud 블로그 쿡북 작성
+
+### **카카오엔트로 부트캠프 생성형 AI 2기**
+기간: 2025.02 ~ 2025.08
+- [뭉치면 산다](https://dev.moongsan.com/) 지역 기반 공동구매 서비스 개발
+  - URL 기반 공동구매 글 자동 생성 기능 개발
+  - 자연어로 서비스 이용(검색, 참여)을 위한 AI 어시스턴트 개발
+- TestPrep AI 사용자 문서 기반 문제 생성 서비스 개발(카카오테크 해커톤 본선)
+  - 핵심 RAG 파이프라인 구축 및 프롬프트 엔지니어링 진행
+
+
 <br />
+
 ## My values
+
 😎 모든것은 재미있어야 합니다<br />
 👌 안전성을 겸비한 속도를 지향 합니다<br />
 🦻 쉽게 말하고 어렵게 들으려고 노력합니다<br />
@@ -29,6 +51,7 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
   <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/MCP-2ECC71?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/FastMCP-00D9FF?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
